@@ -10,8 +10,8 @@
 ### END INIT INFO
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
  
-REMOTE='gdnf:/' #名称
-LOCAL='/volume1/GDNF' #映射文件夹路径
+REMOTE='gdnf:/' #设置的名称
+LOCAL='/volume1/GDNF' #本地映射文件夹路径
 CONFIG='/root/.config/rclone/rclone.conf'
 DEMO='rclone'
  
